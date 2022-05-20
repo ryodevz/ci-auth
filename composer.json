@@ -1,0 +1,21 @@
+{
+    "name": "ryodevz/ci-auth",
+    "description": "Codeigniter simple authentication.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ryodevz\\CiAuth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RyoDev",
+            "email": "ytryo789@gmail.com"
+        }
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
